@@ -1,7 +1,7 @@
 
 # Perfumy React
 
-A basic React.js website built to practise and strengthen my frontend development skills. This project serves as a learning exercise using core React concepts such as components, props, state, and hooks.
+A basic React.js website built to practise and strengthen my frontend development skills. This project serves as a learning exercise using core React concepts such as components.
 
 ## 🚀 Features
 
